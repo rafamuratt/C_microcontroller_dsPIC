@@ -3,6 +3,10 @@ PIC dsPIC30F413, external clock @20MHz
 LCD Hitachi 16x2 HD44780 (4 bits display control)
 Note: R/W bit is not controlled (permanentely grounded to write data on LCD only)
 ADC read + barGraph with custom character + TX send via UART1
+
+Version: 1.0 by rafamuratt
+https://murat-tech.eu/
+https://www.youtube.com/@Murat-TechChannel-EN
 02/2026
 */
 

@@ -1,5 +1,7 @@
 # C-Language 
-Control a generic 16x2 LCD with the microcontroller dsPIC30F4013 using IDE's LCD library (MiKroC Pro for dsPIC - free version)
+Control a generic 16x2 LCD with the microcontroller dsPIC30F4013 (in 4 bits mode to save IOs) using IDE's LCD library.
+
+IDE: MiKroC Pro for dsPIC - non registered version
 
 Note: `project_files.zip`: Contains all IDE configuration and intermediate files.
 A copy of main C file is available in the main folder for easier visibility.
