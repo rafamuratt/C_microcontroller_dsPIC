@@ -3,7 +3,7 @@ Control a generic 16x2 LCD with the microcontroller dsPIC30F4013 (in 4 bits mode
 
 IDE: MiKroC Pro for dsPIC - non registered version
 
-Note: `project_files.zip`: Contains all IDE configuration and intermediate files.
+Note: `MikroC Pro for dsPIC.zip`: Contains all IDE configuration and intermediate files.
 A copy of main C file is available in the main folder for easier visibility.
 
 Basic application: 
